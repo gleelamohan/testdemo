@@ -1,0 +1,227 @@
+[
+    [
+        "/Users/lmohan/Desktop/sneekpeek/DEV1/SampleDemoTest/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/lmohan/Desktop/sneekpeek/DEV1/SampleDemoTest/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1533566674817,
+            "changeTime": 1533566674817,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/lmohan/Desktop/sneekpeek/DEV1/SampleDemoTest/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/lmohan/Desktop/sneekpeek/DEV1/SampleDemoTest/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1533566674817,
+            "changeTime": 1533566674817,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/lmohan/Desktop/sneekpeek/DEV1/SampleDemoTest/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/lmohan/Desktop/sneekpeek/DEV1/SampleDemoTest/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1533566674817,
+            "changeTime": 1533566674817,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/lmohan/Desktop/sneekpeek/DEV1/SampleDemoTest/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/lmohan/Desktop/sneekpeek/DEV1/SampleDemoTest/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1533567351063,
+            "changeTime": 1533567351063,
+            "contentHash": "917ee012ab1128c683c0cdc589add5b260bf97e4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/lmohan/Desktop/sneekpeek/DEV1/SampleDemoTest/force-app/main/default/aura/DeploymentComponent",
+        {
+            "state": "n",
+            "sourcePath": "/Users/lmohan/Desktop/sneekpeek/DEV1/SampleDemoTest/force-app/main/default/aura/DeploymentComponent",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1533567351066,
+            "changeTime": 1533567351066,
+            "contentHash": "d94a1a540bc45eba211a48d694f51f196f976823",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/lmohan/Desktop/sneekpeek/DEV1/SampleDemoTest/force-app/main/default/aura/DeploymentComponent/DeploymentComponent.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/lmohan/Desktop/sneekpeek/DEV1/SampleDemoTest/force-app/main/default/aura/DeploymentComponent/DeploymentComponent.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1533567351066,
+            "changeTime": 1533567351066,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/lmohan/Desktop/sneekpeek/DEV1/SampleDemoTest/force-app/main/default/aura/DeploymentComponent/DeploymentComponent.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/lmohan/Desktop/sneekpeek/DEV1/SampleDemoTest/force-app/main/default/aura/DeploymentComponent/DeploymentComponent.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1218,
+            "modifiedTime": 1533567393216,
+            "changeTime": 1533567393216,
+            "contentHash": "5de772a18a494b0a19832e567ccc434729cef18a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/lmohan/Desktop/sneekpeek/DEV1/SampleDemoTest/force-app/main/default/aura/DeploymentComponent/DeploymentComponent.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/lmohan/Desktop/sneekpeek/DEV1/SampleDemoTest/force-app/main/default/aura/DeploymentComponent/DeploymentComponent.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 251,
+            "modifiedTime": 1533567351064,
+            "changeTime": 1533567351064,
+            "contentHash": "8bf50dc0931508907e8c1fcf6604e3dfc786e453",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/lmohan/Desktop/sneekpeek/DEV1/SampleDemoTest/force-app/main/default/aura/DeploymentComponent/DeploymentComponent.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/lmohan/Desktop/sneekpeek/DEV1/SampleDemoTest/force-app/main/default/aura/DeploymentComponent/DeploymentComponent.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1533567351065,
+            "changeTime": 1533567351065,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/lmohan/Desktop/sneekpeek/DEV1/SampleDemoTest/force-app/main/default/aura/DeploymentComponent/DeploymentComponent.design",
+        {
+            "state": "n",
+            "sourcePath": "/Users/lmohan/Desktop/sneekpeek/DEV1/SampleDemoTest/force-app/main/default/aura/DeploymentComponent/DeploymentComponent.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1533567351067,
+            "changeTime": 1533567351067,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/lmohan/Desktop/sneekpeek/DEV1/SampleDemoTest/force-app/main/default/aura/DeploymentComponent/DeploymentComponent.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/lmohan/Desktop/sneekpeek/DEV1/SampleDemoTest/force-app/main/default/aura/DeploymentComponent/DeploymentComponent.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1533567351066,
+            "changeTime": 1533567351066,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/lmohan/Desktop/sneekpeek/DEV1/SampleDemoTest/force-app/main/default/aura/DeploymentComponent/DeploymentComponentController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/lmohan/Desktop/sneekpeek/DEV1/SampleDemoTest/force-app/main/default/aura/DeploymentComponent/DeploymentComponentController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1533567351064,
+            "changeTime": 1533567351064,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/lmohan/Desktop/sneekpeek/DEV1/SampleDemoTest/force-app/main/default/aura/DeploymentComponent/DeploymentComponentHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/lmohan/Desktop/sneekpeek/DEV1/SampleDemoTest/force-app/main/default/aura/DeploymentComponent/DeploymentComponentHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1533567351065,
+            "changeTime": 1533567351065,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/lmohan/Desktop/sneekpeek/DEV1/SampleDemoTest/force-app/main/default/aura/DeploymentComponent/DeploymentComponentRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/lmohan/Desktop/sneekpeek/DEV1/SampleDemoTest/force-app/main/default/aura/DeploymentComponent/DeploymentComponentRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1533567351065,
+            "changeTime": 1533567351065,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/lmohan/Desktop/sneekpeek/DEV1/SampleDemoTest",
+        {
+            "state": "n",
+            "sourcePath": "/Users/lmohan/Desktop/sneekpeek/DEV1/SampleDemoTest",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1533567242618,
+            "changeTime": 1533567242618,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
